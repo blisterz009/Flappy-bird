@@ -1,2 +1,2 @@
 # Flappy-bird
-Recreated the famous Flappy-Bird game using Phaser in Javascript.
+Recreated the iconic Flappy-Bird game using Phaser in Javascript.
